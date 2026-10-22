@@ -29,7 +29,7 @@
   "description": "SquatGuard MCP Template for Python",
   "devDependencies": {
     "@types/node": "^22.19.2",
-    "typescript": "^5.9.3"
+    "typescript": "^7.0.0"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.24.3"
